@@ -1,0 +1,11 @@
+{
+  "name": "smart-supply-chain-backend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.0.1"
+  }
+}
